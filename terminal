@@ -1,0 +1,4 @@
+mkdir -p src/components/{auth,navigation,maps,transportation,leaderboard,shared}
+mkdir -p src/{pages,services,context,hooks,utils,assets,styles}
+npm install @react-navigation/native @react-navigation/stack axios react-map-gl @mui/material @emotion/react @emotion/styled @mui/icons-material react-router-dom redux react-redux @reduxjs/toolkit react-map-gl mapbox-gl @mapbox/search-js-react 
+npm run dev
